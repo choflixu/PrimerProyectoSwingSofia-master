@@ -1,0 +1,17 @@
+
+J
+java:S1604P"(Make this anonymous inner class a lambda(¶Ä„”şÿÿÿÿ8”×ÔŸº1
+Q
+java:S2755†"3Disable access to external entities in XML parsing.(²µŸš8ÿê«ş¸1
+L
+java:S1197j"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8‰ë«ş¸1
+O
+java:S1128"-Remove this unused import 'org.w3c.dom.Node'.(ùŠÿËıÿÿÿÿ8ÜÛÔŸº1
+W
+java:S1128"5Remove this unused import 'org.xml.sax.SAXException'.(ü…ãşÿÿÿÿ8ÜÛÔŸº1
+m
+java:S1128"KRemove this unused import 'javax.xml.parsers.ParserConfigurationException'.(ûıƒøÿÿÿÿ8ÜÛÔŸº1
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8İÛÔŸº1
+M
+java:S1128"0Remove this unused import 'java.nio.file.Files'.(‚ƒü8İÛÔŸº1
